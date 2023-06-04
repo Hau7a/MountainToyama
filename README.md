@@ -1,2 +1,2 @@
-#グループワークで作成したゲームです。\n
-https://hau7a.github.io/MountainToyama/
+#グループワークで作成したゲームです。
+<p>https://hau7a.github.io/MountainToyama/
